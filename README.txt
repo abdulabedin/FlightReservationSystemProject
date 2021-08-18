@@ -1,1 +1,1 @@
-Everything in the program works.
+Created a Flight Reservation System using Java. Let's user's reserve a flight, cancel a reservation, see all their reservations. It also lets user's see a list of empty seats and the number of passengers on a flight. The program also uses Java Try-catch blocks to handle various types of exceptions that could arrise. 
